@@ -28,5 +28,4 @@ To enhance product marketing and help users understand customer opinions through
 - REST APIs
 - HTML / CSS
 - JavaScript
-
 🔒 Source code is private and available upon request.
